@@ -18,5 +18,21 @@ javascript html script etiketi içine gömülü bir şekilde tarayıcı tabanlı
 2-Null(boş): hiç veri içermeyen....
 
 
+## Javascript Atama Operatörleri 
+
+= : eşittir a = b
+a += b ------------- a ile b yi topla a ya ata</br>
+a -= b ------------- a ile b yi çıkar a ya ata
+a *= b ------------- a ile b yi çarp  a ya ata
+a /= b ------------- a yı b ye böl a ya ata
+a %= b ------------- a yı b ye böl kalanı a ya ata
+a ** = b ----------- a üssü b nin eşitini a ya ata 
+
+## Javascript Mantıksal Operatörler
+
+&& : VE
+|| : VEYA
+!  : DEGİL
+
 
 
